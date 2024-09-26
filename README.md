@@ -25,6 +25,13 @@ Data Analyst with hands-on experience in Python, SQL, and a passion for turning 
 - Artificial Intelligence Diplomat
 - 8 Week SQL Challenge (you can head [here](https://github.com/KarenSaraiMoralesMontiel/8-Week-SQL-Challenge))
 
+## 🛠️ Skills & Tools:
+
+- **Languages:** Python, SQL, R
+- **Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
+- **Databases:** MySQL, PostgreSQL
+- **Tools:** Power BI, Tableau, Jupyter Notebooks, Git.
+
 ## 💬 More About Me
 
 [LinkedIn](https://www.linkedin.com/in/karen-sarai-morales-montiel2001/?locale=en_US)
