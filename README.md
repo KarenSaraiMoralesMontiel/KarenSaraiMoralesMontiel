@@ -20,6 +20,11 @@ Here are some ideas to get you started:
 
 Data Analyst with hands-on experience in Python, SQL, and a passion for turning data into actionable insights. Skilled in developing data-driven solutions to address complex business challenges, Excited to contribute to open-source projects and continuously enhance my skills in the world of data science and analytics!
 
+## 🔭 I’m currently working on ...
+
+- Artificial Intelligence Diplomat
+- 8 Week SQL Challenge (you can head [here](https://github.com/KarenSaraiMoralesMontiel/8-Week-SQL-Challenge))
+
 ## 💬 More About Me
 
 [LinkedIn](https://www.linkedin.com/in/karen-sarai-morales-montiel2001/?locale=en_US)
