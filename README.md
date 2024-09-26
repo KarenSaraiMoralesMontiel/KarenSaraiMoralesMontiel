@@ -1,6 +1,6 @@
 ## Karen Morales
 
-[![Linkedin: Karen Sarai](https://img.shields.io/badge/-Byungjin%20Park-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karen-sarai-morales-montiel2001/?locale=en_US)](https://www.linkedin.com/in/karen-sarai-morales-montiel2001/?locale=en_US)
+[![Linkedin: Karen Sarai](https://img.shields.io/badge/-Karen%20Sarai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karen-sarai-morales-montiel2001/?locale=en_US)](https://www.linkedin.com/in/karen-sarai-morales-montiel2001/?locale=en_US)
 [![GitHub posquit0](https://img.shields.io/github/followers/posquit0?label=follow&style=social)](https://github.com/KarenSaraiMoralesMontiel)
 
 <!--
