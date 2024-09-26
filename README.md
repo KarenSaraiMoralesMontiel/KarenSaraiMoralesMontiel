@@ -29,7 +29,7 @@ Data Analyst with hands-on experience in Python, SQL, and a passion for turning 
 
 - **Languages:** Python, SQL, R
 - **Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
-- **Databases:** MySQL, PostgreSQL
+- **Databases:** Oracle, MySQL, PostgreSQL
 - **Tools:** Power BI, Tableau, Jupyter Notebooks, Git.
 
 ## 💬 More About Me
