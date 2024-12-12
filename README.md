@@ -36,4 +36,4 @@ Data Analyst with hands-on experience in Python, SQL, and a passion for turning 
 
 [LinkedIn](https://www.linkedin.com/in/karen-sarai-morales-montiel2001/?locale=en_US)
 
-[My Portfolio](https://github.com/KarenSaraiMoralesMontiel/Portfolio)
+[My Portfolio](https://kaimora.carrd.co/)
