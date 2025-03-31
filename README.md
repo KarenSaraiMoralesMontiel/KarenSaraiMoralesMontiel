@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Data Analyst with hands-on experience in Python, SQL, and a passion for turning data into actionable insights. Skilled in developing data-driven solutions to address complex business challenges, Excited to contribute to open-source projects and continuously enhance my skills in the world of data science and analytics!
+Programmer with experience in Python, JavaScript, SQL, excited to keep going on the programming world!
 
 ## 🔭 I’m currently working on ...
 
