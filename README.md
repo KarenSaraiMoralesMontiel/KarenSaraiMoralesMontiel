@@ -37,3 +37,7 @@ Programmer with experience in Python, JavaScript, SQL, excited to keep going on 
 [LinkedIn](https://www.linkedin.com/in/karen-sarai-morales-montiel2001/?locale=en_US)
 
 [My Portfolio](https://kaimora.carrd.co/)
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@kai1232/30-nites-of-code)  
+  ![@kai1232 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=kai1232)
